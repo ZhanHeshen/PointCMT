@@ -1,4 +1,8 @@
 # PointCMT
+[![arXiv](https://img.shields.io/badge/arXiv-2203.09065-b31b1b.svg)](https://arxiv.org/pdf/2210.04208.pdf)
+[![GitHub Stars](https://img.shields.io/github/stars/ZhanHeshen/PointCMT?style=social)](https://github.com/ZhanHeshen/PointCMT)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/ZhanHeshen/PointCMT)
+
 This repository is for **PointCMT** introduced in the following paper
 
 [Xu Yan*](https://yanx27.github.io/), Heshen Zhan*, Chaoda Zheng, Jiantao Gao, Ruimao Zhang, Shuguang Cui, 
