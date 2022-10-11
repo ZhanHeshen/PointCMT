@@ -23,6 +23,6 @@ If you find our work useful in your research, please consider citing:
       booktitle={ECCV}
 }
 ```
-
+Our another work for cross-modal semantic segmentation (ECCV 2022) is released [HERE](https://github.com/yanx27/2DPASS).
 
 The code will be released soon...
