@@ -1,3 +1,6 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/let-images-give-you-more-point-cloud-cross/3d-point-cloud-classification-on-modelnet40)](https://paperswithcode.com/sota/3d-point-cloud-classification-on-modelnet40?p=let-images-give-you-more-point-cloud-cross)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/let-images-give-you-more-point-cloud-cross/3d-point-cloud-classification-on-scanobjectnn)](https://paperswithcode.com/sota/3d-point-cloud-classification-on-scanobjectnn?p=let-images-give-you-more-point-cloud-cross)
+
 # PointCMT
 [![arXiv](https://img.shields.io/badge/arXiv-2203.09065-b31b1b.svg)](https://arxiv.org/pdf/2210.04208.pdf)
 [![GitHub Stars](https://img.shields.io/github/stars/ZhanHeshen/PointCMT?style=social)](https://github.com/ZhanHeshen/PointCMT)
