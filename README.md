@@ -101,7 +101,7 @@ You can also use our pre-trained models from `pretrained/modelnet40/`, including
 |PointNet++|94.6%|
 
 # Acknowledgements
-Code is built based on xxx.
+Code is built based on [PointNet++](https://github.com/erikwijmans/Pointnet2_PyTorch), [SimpleView](https://github.com/princeton-vl/SimpleView) and [EMD(Earth Mover's Distance)](https://github.com/Colin97/MSN-Point-Cloud-Completion/tree/master/emd).
 
 # License
 This repository is released under MIT License (see LICENSE file for details).
