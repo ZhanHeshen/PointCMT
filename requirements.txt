@@ -1,0 +1,6 @@
+git+http://github.com/imankgoyal/etw_pytorch_utils.git@v1.1.1#egg=etw_pytorch_utils
+-f https://download.pytorch.org/whl/torch_stable.html
+torchvision==0.5.0+cu100
+scikit-learn
+tqdm
+tensorboardX
