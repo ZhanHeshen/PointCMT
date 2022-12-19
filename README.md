@@ -30,7 +30,7 @@ If you find our work useful in your research, please consider citing:
 Our another work for cross-modal semantic segmentation (ECCV 2022) is released [HERE](https://github.com/yanx27/2DPASS).
 
 ## Update
-**2022/12/19:** The codes for ModelNet40 are released!<br>
+**2022/12/19:** The codes for ModelNet40 are released :rocket:!<br>
 **2022/11/16:** Our paper is selected as **spotlight** in NeurIPS 2022!
 
 ## Install
