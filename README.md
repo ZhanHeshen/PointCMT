@@ -20,11 +20,13 @@ If you find our work useful in your research, please consider citing:
       booktitle={NeurIPS}
 }
 
-@InProceedings{yan20222dpass,
-      title={2DPASS: 2D Priors Assisted Semantic Segmentation on LiDAR Point Clouds}, 
-      author={Xu Yan and Jiantao Gao and Chaoda Zheng and Chao Zheng and Ruimao Zhang and Shuguang Cui and Zhen Li},
-      year={2022},
-      booktitle={ECCV}
+@inproceedings{yan20222dpass,
+  title={2dpass: 2d priors assisted semantic segmentation on lidar point clouds},
+  author={Yan, Xu and Gao, Jiantao and Zheng, Chaoda and Zheng, Chao and Zhang, Ruimao and Cui, Shuguang and Li, Zhen},
+  booktitle={European Conference on Computer Vision},
+  pages={677--695},
+  year={2022},
+  organization={Springer}
 }
 ```
 Our another work for cross-modal semantic segmentation (ECCV 2022) is released [HERE](https://github.com/yanx27/2DPASS).
