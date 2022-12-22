@@ -22,6 +22,7 @@ def generate_data(split):
         ModelNet40(
             data_path=cfg.data_root,
             partition=split,
+            generate=True,
         ),
         num_workers=8,
         batch_size=8,
