@@ -278,6 +278,8 @@ def voting(net, testloader, device, args):
         for batch_idx, databatch in enumerate(testloader):
             data = databatch['pointcloud']
             label = databatch['label']
+            data = torch.as_tensor(data)
+            label = torch.as_tensor(label)
             data, label = data.to(device), label.to(device).squeeze()
             pred = 0
             for v in range(args.num_vote):
